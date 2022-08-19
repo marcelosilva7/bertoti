@@ -5,3 +5,21 @@ Titus Winters, Software Engineering at Google
 
 O engenheiro de software é responsavel pelo programa em geral, monitora o tempo de excecusão do projeto, é responsavel pela tomadas de decisoes mais complexas. 
 Para criação de software ele é responsavel pela organização  e distribuição das atividades de desenvolvimento do programa.
+
+
+
+
+
+Locadora
+
+Requisitos 
+
+Funcionais: Cadastramento de dvds
+busca de dvds pelo nome, genero, ano
+baixa de perda de dvd
+cadastramento de cliente
+bloqueamento do dvd temporariamente quando tiver alugado
+calculando o preço do aluguel de acordo com o tempo
+
+Não Funcionais : Portabilidade - sistema funcionara em sistema desktop
+usabilidade
