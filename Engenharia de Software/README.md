@@ -18,8 +18,18 @@ Funcionais: Cadastramento de dvds
 busca de dvds pelo nome, genero, ano
 baixa de perda de dvd
 cadastramento de cliente
-bloqueamento do dvd temporariamente quando tiver alugado
-calculando o preço do aluguel de acordo com o tempo
+alugar
+devolução
 
-Não Funcionais : Portabilidade - sistema funcionara em sistema desktop
-usabilidade
+
+Não Funcionais : sistema funcionara em sistema desktop
+sistema com interface simples e intuitiva
+com uma boa segurança de dados
+codigo simples de facil manutenção
+desempenho desejavel
+
+diagrama de caso de uso:
+
+
+
+
