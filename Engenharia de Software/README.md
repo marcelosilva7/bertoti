@@ -28,7 +28,14 @@ com uma boa segurança de dados
 codigo simples de facil manutenção
 desempenho desejavel
 
-diagrama de caso de uso:
+diagrama de caso de uso e sequencia
+
+
+
+
+
+
+
 
 
 
