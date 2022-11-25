@@ -10,28 +10,28 @@ Para criação de software ele é responsavel pela organização  e distribuiç�
 
 
 
-##Locadora
+###Locadora
 
-##Requisitos 
+###Requisitos 
 
 ##Funcionais<br>
 
 Cadastramento de dvds<br>
-busca de dvds pelo titulo <br>
-especificaçoes(genero, ano, diretor e idioma)<br>
-cadastramento de cliente<br>
-alugar<br>
+Busca de dvds pelo titulo <br>
+Especificaçoes(genero, ano, diretor e idioma)<br>
+Cadastramento de cliente<br>
+Alugar<br>
 Devolver<br>
 Buscar cliente<br>
 
 
 ##Não Funcionais<br>|
 
-sistema funcionara em sistema desktop<br>
-sistema com interface simples e intuitiva<br>
-com uma boa segurança de dados<br>
-codigo simples de facil manutenção<br>
-desempenho desejavel<br>
+Sistema funcionara em sistema desktop<br>
+Sistema com interface simples e intuitiva<br>
+Com uma boa segurança de dados<br>
+Codigo simples de facil manutenção<br>
+Desempenho desejavel<br>
 
 
 
