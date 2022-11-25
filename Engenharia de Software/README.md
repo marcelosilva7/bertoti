@@ -15,11 +15,12 @@ Locadora
 Requisitos 
 
 Funcionais: Cadastramento de dvds
-busca de dvds pelo nome, genero, ano
-baixa de perda de dvd
+busca de dvds pelo titulo 
+especificaçoes(genero, ano, diretor e idioma)
 cadastramento de cliente
 alugar
-devolução
+Devolver
+Buscar cliente
 
 
 Não Funcionais : sistema funcionara em sistema desktop
@@ -27,8 +28,6 @@ sistema com interface simples e intuitiva
 com uma boa segurança de dados
 codigo simples de facil manutenção
 desempenho desejavel
-
-diagrama de caso de uso e sequencia
 
 
 
