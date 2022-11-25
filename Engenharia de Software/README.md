@@ -25,7 +25,7 @@ Devolver<br>
 Buscar cliente<br>
 
 
-**Não Funcionais**<br>|
+**Não Funcionais**<br>
 
 Sistema funcionara em sistema desktop<br>
 Sistema com interface simples e intuitiva<br>
