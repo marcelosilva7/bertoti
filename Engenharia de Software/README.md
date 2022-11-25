@@ -35,7 +35,7 @@ Desempenho desejavel<br>
 
 Diagrama de Sequencia <br><br>
 
-<img src="/Engenharia de Software/Diagramas/"><br><br>
+<img src="/Engenharia de Software/Diagramas/Diagrama de sequencia.png"><br><br>
 
 
 
