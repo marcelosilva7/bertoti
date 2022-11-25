@@ -10,11 +10,11 @@ Para criação de software ele é responsavel pela organização  e distribuiç�
 
 
 
-###Locadora
+Locadora
 
-###Requisitos 
+Requisitos 
 
-##Funcionais<br>
+Funcionais<br>
 
 Cadastramento de dvds<br>
 Busca de dvds pelo titulo <br>
@@ -33,8 +33,9 @@ Com uma boa segurança de dados<br>
 Codigo simples de facil manutenção<br>
 Desempenho desejavel<br>
 
+Diagrama de Sequencia <br><br>
 
-
+<img src="/Engenharia de Software/Diagramas/"><br><br>
 
 
 
