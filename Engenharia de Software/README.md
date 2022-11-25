@@ -10,11 +10,11 @@ Para criação de software ele é responsavel pela organização  e distribuiç�
 
 
 
-Locadora
+**Locadora**
 
-Requisitos 
+**Requisitos** 
 
-Funcionais<br>
+**Funcionais**<br>
 
 Cadastramento de dvds<br>
 Busca de dvds pelo titulo <br>
@@ -25,7 +25,7 @@ Devolver<br>
 Buscar cliente<br>
 
 
-##Não Funcionais<br>|
+**Não Funcionais**<br>|
 
 Sistema funcionara em sistema desktop<br>
 Sistema com interface simples e intuitiva<br>
@@ -33,9 +33,22 @@ Com uma boa segurança de dados<br>
 Codigo simples de facil manutenção<br>
 Desempenho desejavel<br>
 
-Diagrama de Sequencia <br><br>
+**Diagrama de Sequencia** <br>
 
 <img src="/Engenharia de Software/Diagramas/Diagrama de sequencia.png"><br><br>
+
+**Diagrama de caso de uso**<br>
+
+<img src="/Engenharia de Software/Diagramas/Diagrama de caso de uso.png"><br><br>
+
+**Diagrama UML**
+
+<img src="/Engenharia de Software/Diagramas/UML.png"><br><br>
+
+
+
+
+
 
 
 
