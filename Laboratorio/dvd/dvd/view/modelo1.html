@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="estilo.css">
+    <script src="script.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/axios@1.1.2/dist/axios.min.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Site de Dvds</h1>
+    </header>
+   <main>
+        <section>
+            <h3>Cadastramento de Dvds</h3>
+            <article>
+                Titulo: <input type="text" id="txttitulo">
+            </article>
+            <article>
+                Ano: <input type="text" id="txtano">
+            </article>
+            <article>
+                Diretor: <input type="text" id="txtdiretor">
+            </article>
+            <article>
+                Genero: <input type="text" id="txtgenero">
+            </article>
+            <input type="button" value="Cadastrar" onclick="cadastrar()">
+        
+            <div>
+                <h3 class="titulo">Dvds Cadastrados</h3>
+          <table class="table" id="tabela">
+            <thead>
+                <tr>
+                  <th scope="col">Id</th>
+                  <th scope="col">Titulo</th>
+                  <th scope="col">Ano</th>
+                  <th scope="col">Diretor</th>
+                  <th scope="col">Genero</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+          </table>
+            </div>
+        
+        </section>
+    </main>
+    <footer>
+        <p>Curso em video</p>
+    </footer>
+</body>
+</html>
