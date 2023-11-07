@@ -1,6 +1,7 @@
-package strategy;
+package Strategy;
 
 public class Programador {
+
 
     private Programar programar;
 
@@ -11,5 +12,8 @@ public class Programador {
     public void realizarProgramar(){
         programar.programar();
     }
+
+
+
 
 }

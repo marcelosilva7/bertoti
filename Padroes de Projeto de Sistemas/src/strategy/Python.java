@@ -1,4 +1,4 @@
-package strategy;
+package Strategy;
 
 public class Python implements Programar{
 
@@ -6,4 +6,5 @@ public class Python implements Programar{
     public void programar() {
         System.out.println("estou programando em Python ...");
     }
+
 }
