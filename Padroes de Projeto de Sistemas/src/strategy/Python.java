@@ -1,9 +1,9 @@
 package Strategy;
 
-public class Python implements Programar{
+public class Python implements Programa {
 
     @Override
-    public void programar() {
+    public void programa() {
         System.out.println("estou programando em Python ...");
     }
 

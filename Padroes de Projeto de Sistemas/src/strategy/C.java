@@ -1,9 +1,9 @@
 package Strategy;
 
-public class C implements Programar{
+public class C implements Programa {
 
     @Override
-    public void programar() {
+    public void programa() {
         System.out.println("estou programando em C ...");
     }
 

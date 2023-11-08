@@ -1,4 +1,4 @@
-package Observer;
+package Observer1;
 
 public class Teste {
 

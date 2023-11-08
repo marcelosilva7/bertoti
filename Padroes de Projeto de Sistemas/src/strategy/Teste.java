@@ -1,4 +1,4 @@
-package strategy;
+package Strategy;
 
 public class Teste {
 
@@ -6,9 +6,9 @@ public class Teste {
 
         Programador programador = new Programador();
 
-        programador.setProgramar(new Java());
+        programador.setPrograma(new Java());
 
-        programador.realizarProgramar();
+        programador.realizarPrograma();
 
     }
 }

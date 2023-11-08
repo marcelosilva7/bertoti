@@ -3,14 +3,14 @@ package Strategy;
 public class Programador {
 
 
-    private Programar programar;
+    private Programa programa;
 
-    public void setProgramar(Programar pro){
-        programar = pro;
+    public void setPrograma(Programa pro){
+        programa = pro;
     }
 
-    public void realizarProgramar(){
-        programar.programar();
+    public void realizarPrograma(){
+        programa.programa();
     }
 
 
