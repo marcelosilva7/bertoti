@@ -1,3 +1,4 @@
 Padrões de Projeto: Strategy
 
-![Diagrama Strategy](https://github.com/marcelosilva7/bertoti/assets/101959064/c2117b16-2043-449d-9774-2247d7c6f32d)
+
+![Diagrama Strategy1](https://github.com/marcelosilva7/bertoti/assets/101959064/53c99ff4-cf69-44d8-b60b-46ca3e689aa2)
