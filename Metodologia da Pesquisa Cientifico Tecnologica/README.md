@@ -11,9 +11,11 @@ Um elemento inovador do projeto é a integração de um algoritmo preexistente d
 Em suma, o desafio do projeto é criar uma aplicação web que não só simplifique o gerenciamento de vendas, mas também ofereça uma análise minuciosa ao comparar o histórico dos vendedores, o planejamento de vendas e os registros de vendas efetivas. Além disso, a aplicação contará com o aprimoramento de previsões baseadas em Inteligência Artificial, melhorando significativamente o processo de tomada de decisões relacionadas a vendas.
 
 TECNOLOGIAS UTILIZADAS
+
 Para a construção deste projeto, foram empregadas tecnologias modernas, incluindo JavaScript e Bootstrap para o Front-End, e Java com Spring Boot para o Back-End, apoiados pelo banco de dados MySQL.
 
 CONTRIBUIÇÕES PESSOAIS
+
 Na realização deste projeto, desempenhei um papel crucial no desenvolvimento do back-end, aplicando minhas habilidades técnicas e influenciando estrategicamente o progresso do sistema:
 
 Desenvolvimento de Operações de CRUD para Modelos Diversos: Liderei a implementação das operações de CRUD para modelos chave como Cliente, Vendedor e Registro. Utilizei APIs RESTful para gerenciar os dados de forma eficiente, aplicando meu conhecimento aprofundado em Spring Boot e JPA para criar soluções de back-end robustas.
