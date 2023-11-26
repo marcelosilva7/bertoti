@@ -39,7 +39,12 @@
 <h3>Implementação do RegistroConverter</h3>
 <p>Conversão e Transferência de Dados Eficiente: O desenvolvimento do RegistroConverter aprimorou meu conhecimento sobre padrões DTO (Data Transfer Object). Tornei-me habilidoso na conversão de entidades em DTOs para transferência de dados eficiente e segura entre diferentes camadas da aplicação.</p>
 
+<summary><b>Entendendo o Conversor de Registro</b></summary>    
+  <br>
+
 <p>Vamos imaginar que a classe 'RegistroConverter' é um tipo de filtro mágico em um escritório de registros. Quando alguém pede informações sobre as vendas (isso é o que chamamos de 'fazer um get'), esse filtro transforma pilhas de papéis com detalhes técnicos em um resumo fácil de entender.</p>
+
+![classeconverterregistro](https://github.com/marcelosilva7/bertoti/assets/101959064/67ccf6f3-7432-40db-8c71-ece447fcc383)
 
 <h2>Como o Conversor Trabalha:</h2>
 <ul>
@@ -55,9 +60,7 @@
 </ul>
 
 <p>Em resumo, 'RegistroConverter' pega todas as informações complexas e detalhadas sobre vendas e as transforma em uma forma mais simples e clara, que é fácil para qualquer pessoa entender quando ela pede para ver essas informações. É como se alguém pedisse um resumo dos eventos mais importantes em um jornal, em vez de ler todas as notícias.</p>
-
-
-</body>
+</details>
 
 <h3>Trabalho com Models</h3>
 <p>Definição de Estruturas de Dados: Ao criar classes de modelo como Cliente, Vendedor, Produto e Registro, aprendi a definir as estruturas de dados fundamentais para a aplicação, especificando campos, tipos de dados e anotações de validação.</p>
