@@ -1,7 +1,3 @@
-
-
-<h3>Metodologia da Pesquisa Científico Tecnológica</h3>
-
 <h1>Metodologia da Pesquisa Científico Tecnológica</h1>
 
 <h2>DESCRIÇÃO DO PROJETO</h2>
