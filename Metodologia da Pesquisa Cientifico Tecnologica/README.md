@@ -48,10 +48,9 @@
 <details>
   <summary><b>Entendendo os Models</b></summary>
 
-![classeregistro](https://github.com/marcelosilva7/bertoti/assets/101959064/fd51b9ac-dca1-40fd-9b05-053514ada5a8)
-
-
 <p>Imagine que a classe 'Registro' é como um espelho mágico que reflete uma prateleira específica dentro de um imenso armário (o banco de dados). Cada vez que alguém faz uma venda, um formulário é preenchido e colocado nessa prateleira. A classe 'Registro' é a representação desses formulários no mundo dos computadores, onde cada formulário tem informações sobre a venda que aconteceu.</p>
+
+![classeregistro](https://github.com/marcelosilva7/bertoti/assets/101959064/fd51b9ac-dca1-40fd-9b05-053514ada5a8)
 
 <h2>O que cada parte faz:</h2>
 <ul>
