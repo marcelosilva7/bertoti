@@ -4,7 +4,7 @@
 <p>O foco deste projeto é desenvolver uma aplicação web destinada ao gerenciamento eficiente de vendas, abordando três aspectos fundamentais: o histórico de vendas dos vendedores, o planejamento de vendas e o registro das vendas realizadas.</p>
 <p>A funcionalidade central da aplicação reside em sua habilidade de comparar e analisar esses três conjuntos de dados de maneira detalhada e precisa. Isso possibilita uma avaliação aprofundada dos resultados das vendas, considerando tanto o histórico dos vendedores quanto os planos de vendas previamente estabelecidos.</p>
 <p>Um elemento inovador do projeto é a integração de um algoritmo preexistente de Inteligência Artificial. Esse algoritmo será utilizado para gerar previsões e insights valiosos, visando aumentar a precisão e confiabilidade das análises realizadas pela aplicação.</p>
-<p>Em suma, o desafio do projeto é criar uma aplicação web que não só simplifique o gerenciamento de vendas, mas também ofereça uma análise minuciosa ao comparar o histórico dos vendedores, o planejamento de vendas e os registros de vendas efetivas. Além disso, a aplicação contará com o aprimoramento de previsões baseadas em Inteligência Artificial, melhorando significativamente o processo de tomada de decisões relacionadas a vendas.</p>
+<p>Em suma, o desafio do projeto é criar uma aplicação web que não só simplifique o gerenciamento de vendas, mas também ofereça uma análise minuciosa ao comparar o histórico dos vendedores, o planejamento de vendas e os registros de vendas efetivas. Além disso, a aplicação contará com o aprimoramento de previsões baseadas em Inteligência Artificial, melhorando significativamente o processo de tomhttps://github.com/marcelosilva7/bertoti/blob/main/Metodologia%20da%20Pesquisa%20Cientifico%20Tecnologica/README.mdada de decisões relacionadas a vendas.</p>
 
 <h2>TECNOLOGIAS UTILIZADAS</h2>
 <ul>
@@ -46,28 +46,26 @@
 <p>Relacionamentos entre Entidades: Aprendi a definir e gerenciar relacionamentos entre diferentes entidades, como relações um-para-muitos e muitos-para-um, essenciais para representar conexões lógicas e regras de negócio no modelo de dados.</p>
 <p>Análise e Design de Entidades: Projetar as entidades me ensinou a analisar os requisitos de negócios e traduzi-los em um design de banco de dados eficaz, considerando aspectos como chaves primárias, restrições e relações.</p>
 
+ <h1>Entendendo os Models</h1>
 
-    
-![classeregistro](https://github.com/marcelosilva7/bertoti/assets/101959064/06d6db32-ea21-4d76-971c-737c067407eb)
+    ![classeregistro](https://github.com/marcelosilva7/bertoti/assets/101959064/06d6db32-ea21-4d76-971c-737c067407eb)
 
+    <p>Imagine que a classe 'Registro' é como um espelho mágico que reflete uma prateleira específica dentro de um imenso armário (o banco de dados). Cada vez que alguém faz uma venda, um formulário é preenchido e colocado nessa prateleira. A classe 'Registro' é a representação desses formulários no mundo dos computadores, onde cada formulário tem informações sobre a venda que aconteceu.</p>
 
-<h2>Descrição do Código:</h2>
-<ul>
-    <li><strong>@Entity</strong>: Indica que a classe é uma entidade JPA.</li>
-    <li><strong>@Table</strong>: Especifica o nome da tabela e as restrições únicas.</li>
-    <li><strong>@Builder, @Data, @AllArgsConstructor, @NoArgsConstructor</strong>: Anotações do Lombok para gerar código boilerplate.</li>
-    <li><strong>public class Registro</strong>: Declaração da entidade.</li>
-    <li><strong>@Id, @GeneratedValue</strong>: Define o campo 'id' como chave primária e sua estratégia de geração.</li>
-    <li><strong>@Column(nullable = false)</strong>: Define propriedades da coluna 'dataRegistro'.</li>
-    <li><strong>@ManyToOne, @JoinColumn</strong>: Define um relacionamento muitos-para-um e a coluna de chave estrangeira.</li>
-    <li><strong>@OneToMany(mappedBy = "registro")</strong>: Define relacionamentos um-para-muitos com outras entidades.</li>
-    <li><strong>Listas de entidades associadas</strong>: Declara listas para 'planejamentos', 'historicos' e 'predicoes'.</li>
-    <li><strong>@JsonBackReference, @JsonManagedReference</strong>: Gerencia referências circulares em JSON.</li>
-</ul>
+    <h2>O que cada parte faz:</h2>
+    <ul>
+        <li><strong>O Espelho Mágico (@Entity):</strong> A anotação '@Entity' diz que a nossa classe 'Registro' é um reflexo direto de uma prateleira no armário, onde cada papel é importante e precisa ser guardado com cuidado.</li>
+        <li><strong>Etiqueta do Espelho (@Table):</strong> A '@Table' é como uma etiqueta no espelho que nos diz qual é o nome dessa prateleira no banco de dados.</li>
+        <li><strong>Canetas Mágicas (@Builder, @Data, @AllArgsConstructor, @NoArgsConstructor):</strong> Estas são ferramentas que fazem o trabalho pesado por nós, como preencher automaticamente os detalhes dos formulários, criar novos ou apagar os antigos.</li>
+        <li><strong>O Formulário (public class Registro):</strong> É o próprio papel onde escrevemos as informações da venda.</li>
+        <li><strong>Número de Identificação (@Id, @GeneratedValue):</strong> Cada formulário tem um número único, como um documento de identidade, que garante que cada venda seja única e não confunda com outras.</li>
+        <li><strong>Data da Venda (@Column):</strong> Este é um campo obrigatório no formulário que registra quando a venda aconteceu. É como a data no canto de uma carta, e não pode ser deixada em branco.</li>
+        <li><strong>Linhas de Conexão (@ManyToOne, @OneToMany):</strong> Estas são como linhas invisíveis que ligam o nosso formulário de venda a outros formulários importantes, como os detalhes do vendedor, do produto e do cliente. Eles nos ajudam a ver o quadro completo de cada venda.</li>
+        <li><strong>Anexos de Informações (Listas de entidades associadas):</strong> Assim como anexamos documentos adicionais a um formulário, a classe 'Registro' pode ter listas anexadas a ela, como planos de venda futuros, histórico de vendas anteriores e previsões.</li>
+        <li><strong>Trabalho em Equipe Inteligente (@JsonBackReference, @JsonManagedReference):</strong> Estas anotações ajudam a controlar o que mostramos quando compartilhamos nossos formulários com outros sistemas, evitando repetição e expondo apenas o que é necessário.</li>
+    </ul>
 
-<p>Essa classe representa uma entidade central no sistema que lida com registros relacionados a vendedores, produtos, clientes e previsões, refletindo as operações e relações no banco de dados.</p>
-
-<p>Esses aspectos dos models são fundamentais no desenvolvimento de aplicações baseadas em dados e foram essenciais para aprofundar meu conhecimento em design de software e arquitetura de sistemas. A combinação dessas habilidades com as experiências anteriores em CRUD, controladores, repositórios, serviços e DTOs proporcionou uma compreensão abrangente do desenvolvimento de aplicações web do ponto de vista do Back-End.</p>
+    <p>Em resumo, a classe 'Registro' não só documenta todas as vendas que acontecem, como também é uma réplica digital da prateleira de vendas no nosso armário de banco de dados. Ela mantém tudo organizado e acessível, permitindo que a loja tenha uma visão clara de suas operações e planeje melhor para o futuro.</p>anteriores em CRUD, controladores, repositórios, serviços e DTOs proporcionou uma compreensão abrangente do desenvolvimento de aplicações web do ponto de vista do Back-End.</p>
 
 
 
