@@ -46,6 +46,27 @@
 <p>Relacionamentos entre Entidades: Aprendi a definir e gerenciar relacionamentos entre diferentes entidades, como relações um-para-muitos e muitos-para-um, essenciais para representar conexões lógicas e regras de negócio no modelo de dados.</p>
 <p>Análise e Design de Entidades: Projetar as entidades me ensinou a analisar os requisitos de negócios e traduzi-los em um design de banco de dados eficaz, considerando aspectos como chaves primárias, restrições e relações.</p>
 
+
+    
+![classeregistro](https://github.com/marcelosilva7/bertoti/assets/101959064/06d6db32-ea21-4d76-971c-737c067407eb)
+
+
+<h2>Descrição do Código:</h2>
+<ul>
+    <li><strong>@Entity</strong>: Indica que a classe é uma entidade JPA.</li>
+    <li><strong>@Table</strong>: Especifica o nome da tabela e as restrições únicas.</li>
+    <li><strong>@Builder, @Data, @AllArgsConstructor, @NoArgsConstructor</strong>: Anotações do Lombok para gerar código boilerplate.</li>
+    <li><strong>public class Registro</strong>: Declaração da entidade.</li>
+    <li><strong>@Id, @GeneratedValue</strong>: Define o campo 'id' como chave primária e sua estratégia de geração.</li>
+    <li><strong>@Column(nullable = false)</strong>: Define propriedades da coluna 'dataRegistro'.</li>
+    <li><strong>@ManyToOne, @JoinColumn</strong>: Define um relacionamento muitos-para-um e a coluna de chave estrangeira.</li>
+    <li><strong>@OneToMany(mappedBy = "registro")</strong>: Define relacionamentos um-para-muitos com outras entidades.</li>
+    <li><strong>Listas de entidades associadas</strong>: Declara listas para 'planejamentos', 'historicos' e 'predicoes'.</li>
+    <li><strong>@JsonBackReference, @JsonManagedReference</strong>: Gerencia referências circulares em JSON.</li>
+</ul>
+
+<p>Essa classe representa uma entidade central no sistema que lida com registros relacionados a vendedores, produtos, clientes e previsões, refletindo as operações e relações no banco de dados.</p>
+
 <p>Esses aspectos dos models são fundamentais no desenvolvimento de aplicações baseadas em dados e foram essenciais para aprofundar meu conhecimento em design de software e arquitetura de sistemas. A combinação dessas habilidades com as experiências anteriores em CRUD, controladores, repositórios, serviços e DTOs proporcionou uma compreensão abrangente do desenvolvimento de aplicações web do ponto de vista do Back-End.</p>
 
 
