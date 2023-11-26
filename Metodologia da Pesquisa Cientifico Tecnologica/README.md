@@ -48,6 +48,9 @@
 
  <h1>Entendendo os Models</h1>
 
+![classeregistro](https://github.com/marcelosilva7/bertoti/assets/101959064/fd51b9ac-dca1-40fd-9b05-053514ada5a8)
+
+
 <p>Imagine que a classe 'Registro' é como um espelho mágico que reflete uma prateleira específica dentro de um imenso armário (o banco de dados). Cada vez que alguém faz uma venda, um formulário é preenchido e colocado nessa prateleira. A classe 'Registro' é a representação desses formulários no mundo dos computadores, onde cada formulário tem informações sobre a venda que aconteceu.</p>
 
 <h2>O que cada parte faz:</h2>
@@ -65,6 +68,11 @@
 
 <p>Em resumo, a classe 'Registro' não só documenta todas as vendas que acontecem, como também é uma réplica digital da prateleira de vendas no nosso armário de banco de dados. Ela mantém tudo organizado e acessível, permitindo que a loja tenha uma visão clara de suas operações e planeje melhor para o futuro.</p>
 
+
+<details>
+  <summary><b>Ola</b></summary>
+
+</details>
 
 
 obs: detalhamento de codigo, mostrar imagens nos itens, api rest, trechos de codigos, e fazer os details para ficar melhor.
