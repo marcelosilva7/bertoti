@@ -45,7 +45,8 @@
 <p>Mapeamento Objeto-Relacional (ORM): Com a utilização do JPA, adquiri habilidades no mapeamento objeto-relacional, mapeando propriedades de classes Java para colunas de banco de dados e compreendendo como operações em objetos Java se traduzem em operações no banco de dados.</p>
 <p>Relacionamentos entre Entidades: Aprendi a definir e gerenciar relacionamentos entre diferentes entidades, como relações um-para-muitos e muitos-para-um, essenciais para representar conexões lógicas e regras de negócio no modelo de dados.</p>
 <p>Análise e Design de Entidades: Projetar as entidades me ensinou a analisar os requisitos de negócios e traduzi-los em um design de banco de dados eficaz, considerando aspectos como chaves primárias, restrições e relações.</p>
-
+<details>
+  <summary><b>>Entendendo os Models</b></summary>
  <h1>Entendendo os Models</h1>
 
 ![classeregistro](https://github.com/marcelosilva7/bertoti/assets/101959064/fd51b9ac-dca1-40fd-9b05-053514ada5a8)
@@ -67,11 +68,6 @@
 </ul>
 
 <p>Em resumo, a classe 'Registro' não só documenta todas as vendas que acontecem, como também é uma réplica digital da prateleira de vendas no nosso armário de banco de dados. Ela mantém tudo organizado e acessível, permitindo que a loja tenha uma visão clara de suas operações e planeje melhor para o futuro.</p>
-
-
-<details>
-  <summary><b>Ola</b></summary>
-
 </details>
 
 
