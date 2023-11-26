@@ -70,6 +70,8 @@
 <p>Em resumo, a classe 'Registro' não só documenta todas as vendas que acontecem, como também é uma réplica digital da prateleira de vendas no nosso armário de banco de dados. Ela mantém tudo organizado e acessível, permitindo que a loja tenha uma visão clara de suas operações e planeje melhor para o futuro.</p>
 </details>
 
+<p>Esses aspectos dos models são fundamentais no desenvolvimento de aplicações baseadas em dados e foram essenciais para aprofundar meu conhecimento em design de software e arquitetura de sistemas. A combinação dessas habilidades com as experiências anteriores em CRUD, controladores, repositórios, serviços e DTOs proporcionou uma compreensão abrangente do desenvolvimento de aplicações web do ponto de vista do Back-End.</p>
+
 
 obs: detalhamento de codigo, mostrar imagens nos itens, api rest, trechos de codigos, e fazer os details para ficar melhor.
 
