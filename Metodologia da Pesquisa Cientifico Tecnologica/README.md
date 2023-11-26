@@ -39,6 +39,7 @@
 <h3>Implementação do RegistroConverter</h3>
 <p>Conversão e Transferência de Dados Eficiente: O desenvolvimento do RegistroConverter aprimorou meu conhecimento sobre padrões DTO (Data Transfer Object). Tornei-me habilidoso na conversão de entidades em DTOs para transferência de dados eficiente e segura entre diferentes camadas da aplicação.</p>
 
+<details>
 <summary><b>Entendendo o Conversor de Registro</b></summary>    
   <br>
 
@@ -67,6 +68,7 @@
 <p>Mapeamento Objeto-Relacional (ORM): Com a utilização do JPA, adquiri habilidades no mapeamento objeto-relacional, mapeando propriedades de classes Java para colunas de banco de dados e compreendendo como operações em objetos Java se traduzem em operações no banco de dados.</p>
 <p>Relacionamentos entre Entidades: Aprendi a definir e gerenciar relacionamentos entre diferentes entidades, como relações um-para-muitos e muitos-para-um, essenciais para representar conexões lógicas e regras de negócio no modelo de dados.</p>
 <p>Análise e Design de Entidades: Projetar as entidades me ensinou a analisar os requisitos de negócios e traduzi-los em um design de banco de dados eficaz, considerando aspectos como chaves primárias, restrições e relações.</p>
+
 <details>
   <summary><b>Entendendo os Models</b></summary>
   <br>
