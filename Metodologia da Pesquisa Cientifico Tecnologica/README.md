@@ -50,20 +50,20 @@
 
 <p>Imagine que a classe 'Registro' é como um espelho mágico que reflete uma prateleira específica dentro de um imenso armário (o banco de dados). Cada vez que alguém faz uma venda, um formulário é preenchido e colocado nessa prateleira. A classe 'Registro' é a representação desses formulários no mundo dos computadores, onde cada formulário tem informações sobre a venda que aconteceu.</p>
 
-    <h2>O que cada parte faz:</h2>
-    <ul>
-        <li><strong>O Espelho Mágico (@Entity):</strong> A anotação '@Entity' diz que a nossa classe 'Registro' é um reflexo direto de uma prateleira no armário, onde cada papel é importante e precisa ser guardado com cuidado.</li>
-        <li><strong>Etiqueta do Espelho (@Table):</strong> A '@Table' é como uma etiqueta no espelho que nos diz qual é o nome dessa prateleira no banco de dados.</li>
-        <li><strong>Canetas Mágicas (@Builder, @Data, @AllArgsConstructor, @NoArgsConstructor):</strong> Estas são ferramentas que fazem o trabalho pesado por nós, como preencher automaticamente os detalhes dos formulários, criar novos ou apagar os antigos.</li>
-        <li><strong>O Formulário (public class Registro):</strong> É o próprio papel onde escrevemos as informações da venda.</li>
-        <li><strong>Número de Identificação (@Id, @GeneratedValue):</strong> Cada formulário tem um número único, como um documento de identidade, que garante que cada venda seja única e não confunda com outras.</li>
-        <li><strong>Data da Venda (@Column):</strong> Este é um campo obrigatório no formulário que registra quando a venda aconteceu. É como a data no canto de uma carta, e não pode ser deixada em branco.</li>
-        <li><strong>Linhas de Conexão (@ManyToOne, @OneToMany):</strong> Estas são como linhas invisíveis que ligam o nosso formulário de venda a outros formulários importantes, como os detalhes do vendedor, do produto e do cliente. Eles nos ajudam a ver o quadro completo de cada venda.</li>
-        <li><strong>Anexos de Informações (Listas de entidades associadas):</strong> Assim como anexamos documentos adicionais a um formulário, a classe 'Registro' pode ter listas anexadas a ela, como planos de venda futuros, histórico de vendas anteriores e previsões.</li>
-        <li><strong>Trabalho em Equipe Inteligente (@JsonBackReference, @JsonManagedReference):</strong> Estas anotações ajudam a controlar o que mostramos quando compartilhamos nossos formulários com outros sistemas, evitando repetição e expondo apenas o que é necessário.</li>
-    </ul>
+<h2>O que cada parte faz:</h2>
+<ul>
+    <li><strong>O Espelho Mágico (@Entity):</strong> A anotação '@Entity' diz que a nossa classe 'Registro' é um reflexo direto de uma prateleira no armário, onde cada papel é importante e precisa ser guardado com cuidado.</li>
+    <li><strong>Etiqueta do Espelho (@Table):</strong> A '@Table' é como uma etiqueta no espelho que nos diz qual é o nome dessa prateleira no banco de dados.</li>
+    <li><strong>Canetas Mágicas (@Builder, @Data, @AllArgsConstructor, @NoArgsConstructor):</strong> Estas são ferramentas que fazem o trabalho pesado por nós, como preencher automaticamente os detalhes dos formulários, criar novos ou apagar os antigos.</li>
+    <li><strong>O Formulário (public class Registro):</strong> É o próprio papel onde escrevemos as informações da venda.</li>
+    <li><strong>Número de Identificação (@Id, @GeneratedValue):</strong> Cada formulário tem um número único, como um documento de identidade, que garante que cada venda seja única e não confunda com outras.</li>
+    <li><strong>Data da Venda (@Column):</strong> Este é um campo obrigatório no formulário que registra quando a venda aconteceu. É como a data no canto de uma carta, e não pode ser deixada em branco.</li>
+    <li><strong>Linhas de Conexão (@ManyToOne, @OneToMany):</strong> Estas são como linhas invisíveis que ligam o nosso formulário de venda a outros formulários importantes, como os detalhes do vendedor, do produto e do cliente. Eles nos ajudam a ver o quadro completo de cada venda.</li>
+    <li><strong>Anexos de Informações (Listas de entidades associadas):</strong> Assim como anexamos documentos adicionais a um formulário, a classe 'Registro' pode ter listas anexadas a ela, como planos de venda futuros, histórico de vendas anteriores e previsões.</li>
+    <li><strong>Trabalho em Equipe Inteligente (@JsonBackReference, @JsonManagedReference):</strong> Estas anotações ajudam a controlar o que mostramos quando compartilhamos nossos formulários com outros sistemas, evitando repetição e expondo apenas o que é necessário.</li>
+</ul>
 
-    <p>Em resumo, a classe 'Registro' não só documenta todas as vendas que acontecem, como também é uma réplica digital da prateleira de vendas no nosso armário de banco de dados. Ela mantém tudo organizado e acessível, permitindo que a loja tenha uma visão clara de suas operações e planeje melhor para o futuro.</p>
+<p>Em resumo, a classe 'Registro' não só documenta todas as vendas que acontecem, como também é uma réplica digital da prateleira de vendas no nosso armário de banco de dados. Ela mantém tudo organizado e acessível, permitindo que a loja tenha uma visão clara de suas operações e planeje melhor para o futuro.</p>
 
 
 
