@@ -11,7 +11,13 @@
 <p>Em suma, o desafio do projeto é criar uma aplicação web que não só simplifique o gerenciamento de vendas, mas também ofereça uma análise minuciosa ao comparar o histórico dos vendedores, o planejamento de vendas e os registros de vendas efetivas. Além disso, a aplicação contará com o aprimoramento de previsões baseadas em Inteligência Artificial, melhorando significativamente o processo de tomada de decisões relacionadas a vendas.</p>
 
 <h2>TECNOLOGIAS UTILIZADAS</h2>
-<p>Para a construção deste projeto, foram empregadas tecnologias modernas, incluindo JavaScript e Bootstrap para o Front-End, e Java com Spring Boot para o Back-End, apoiados pelo banco de dados MySQL.</p>
+<ul>
+    <li>JavaScript (Front-End)</li>
+    <li>Bootstrap (Front-End)</li>
+    <li>Java (Back-End)</li>
+    <li>Spring Boot (Back-End)</li>
+    <li>MySQL (Banco de Dados)</li>
+</ul>
 
 <h2>CONTRIBUIÇÕES PESSOAIS</h2>
 <p>Na realização deste projeto, desempenhei um papel crucial no desenvolvimento do back-end, aplicando minhas habilidades técnicas e influenciando estrategicamente o progresso do sistema:</p>
