@@ -1,6 +1,6 @@
-Metodologia da Pesquisa Científico Tecnológica
+<h3>Metodologia da Pesquisa Científico Tecnológica</h3>
 
-DESCRIÇÃO DO PROJETO
+<h1>DESCRIÇÃO DO PROJETO</h1>
 
 O foco deste projeto é desenvolver uma aplicação web destinada ao gerenciamento eficiente de vendas, abordando três aspectos fundamentais: o histórico de vendas dos vendedores, o planejamento de vendas e o registro das vendas realizadas.
 
