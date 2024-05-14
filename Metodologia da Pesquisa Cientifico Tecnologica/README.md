@@ -1,5 +1,53 @@
 <h1>Metodologia da Pesquisa Científico Tecnológica</h1>
 
+<h3>Assistente Virtual Lola</h3>
+<h4>1º Semestre • 2024 </h4> 
+<p align="justify">Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">FATEC São José dos Campos - Prof. Jessen Vidal</a></p>
+<p align="justify">Projeto desenvolvido sob orientação do professor Fabiano Sabha, desenvolvendo uma API específica para a educação infantil.</p>
+<!-- <p align="center"><img src="https://exemplo.com/imagens/assistente_virtual.png" width="20%"> foto da lola</p> -->
+<p align="justify">Lola é uma assistente virtual projetada especificamente para crianças na faixa etária de 5 a 8 anos. Ativada por comando de voz com a palavra-chave "Oi Lola", ela oferece diversas funcionalidades educativas e interativas, promovendo um ambiente de aprendizado dinâmico e envolvente.</p>
+<p align="justify">A assistente pode realizar cálculos matemáticos simples, contar histórias envolventes, configurar alarmes, traduzir frases do inglês para o português, ensinar o processo de escovação de dentes, além de oferecer jogos educativos, um dicionário e a função de soletrar palavras.</p>
+<br>
+<h3>Prévia da Solução</h3>
+<p align="justify">O assistente foi projetado para ser facilmente integrado a diferentes plataformas, oferecendo suporte a comandos totalmente via voz para uma interação natural e amigável. O foco é em funcionalidades que auxiliam no desenvolvimento educacional e na autonomia das crianças.</p>
+<details>
+  <summary><b>Funcionalidades Interativas</b></summary>
+  <br>
+  <ul>
+    <li>Cálculos matemáticos simples</li>
+    <li>Contação de histórias infantis</li>
+    <li>Configuração de despertadores para ajudar nos estudos</li>
+    <li>Tradução de inglês para português</li>
+    <li>Instruções para escovação de dentes</li>
+    <li>Jogo de Pedra, Papel e tesoura</li>
+    <li>Dicionário para desenvolvimento de vocabulário</li>
+    <li>Soletração de palavras</li>
+  </ul>
+</details>
+<br>
+<h3>Tecnologias Utilizadas</h3>
+<p align="justify">As principais tecnologias incluem:</p>
+<ul>
+  <li>Python para lógica de programação</li>
+  <li>pyttsx3 para sintetização de voz</li>
+  <li>Google Speech Recognition para reconhecimento de voz</li>
+  <li>Google Trans para serviços de tradução</li>
+</ul>
+<br>
+<h3>Contribuições Pessoais</h3>
+<p align="justify">Durante o desenvolvimento deste projeto, assumi responsabilidades críticas no desenvolvimento de funcionalidades interativas e na estruturação do código, aplicando técnicas avançadas de programação e princípios de design de software:</p>
+<ul>
+    <li><strong>Desenvolvimento do Jogo 'Pedra, Papel e Tesoura':</strong> Fui responsável pela programação completa do jogo 'Pedra, Papel e Tesoura', uma funcionalidade destinada a oferecer entretenimento educativo para crianças. Utilizando Python, criei a lógica de jogo que inclui a geração de jogadas do computador, a avaliação de resultados e a interação com o usuário através de comandos de voz. Este jogo promove o raciocínio lógico e a aprendizagem de padrões simples de decisão.</li>
+    <li><strong>Implementação de Narração de Histórias:</strong> Programei um sistema de narração de histórias que utiliza a síntese de voz para contar histórias infantis de maneira envolvente e interativa. Este módulo foi desenvolvido com o auxílio de bibliotecas de TTS (text-to-speech), permitindo que histórias pré-definidas sejam narradas de forma clara e acessível, melhorando a experiência auditiva das crianças e incentivando o gosto pela literatura desde cedo.</li>
+    <li><strong>Integração de Funcionalidades no Assistente Virtual:</strong> Coordenei a integração de diversas funcionalidades no assistente virtual, garantindo uma navegação fluida e intuitiva. Este trabalho envolveu a criação de uma interface de usuário unificada e a implementação de lógicas de interação que facilitam o acesso a jogos, contação de histórias, tradução de línguas, entre outros, dentro de um único ambiente. A modularização do código foi essencial para manter a organização e permitir a expansão futura do sistema.</li>
+</ul>
+<br>
+<h3>Lições Aprendidas</h3>
+<p align="justify">Este projeto representou uma valiosa oportunidade para avançar no meu domínio do desenvolvimento de software interativo e da arquitetura de sistemas. O foco principal foi aprimorar a lógica de programação utilizando Python, uma habilidade essencial que foi extensivamente cultivada através do projeto. A estratégia de modularização do código, uma prática que adotei durante o desenvolvimento, provou ser especialmente eficaz, melhorando significativamente a legibilidade e reutilização do código. Esta abordagem não apenas facilitou a manutenção do sistema, mas também permitiu a integração e adaptação flexível de funcionalidades em diferentes contextos, o que é crucial em aplicações destinadas à educação infantil. Além disso, este projeto fortaleceu minhas competências em design de interação, preparando-me para criar interfaces que são intuitivas e envolventes para os jovens usuários.</p>
+
+<br>
+
+<h4>3º Semestre • 2024 </h4>
 <h2>DESCRIÇÃO DO PROJETO</h2>
 <p>O foco deste projeto é desenvolver uma aplicação web destinada ao gerenciamento eficiente de vendas, abordando três aspectos fundamentais: o histórico de vendas dos vendedores, o planejamento de vendas e o registro das vendas realizadas.</p>
 <p>A funcionalidade central da aplicação reside em sua habilidade de comparar e analisar esses três conjuntos de dados de maneira detalhada e precisa. Isso possibilita uma avaliação aprofundada dos resultados das vendas, considerando tanto o histórico dos vendedores quanto os planos de vendas previamente estabelecidos.</p>
@@ -8,11 +56,11 @@
 
 <h2>TECNOLOGIAS UTILIZADAS</h2>
 <ul>
-    <li>JavaScript (Front-End)</li>
-    <li>Bootstrap (Front-End)</li>
-    <li>Java (Back-End)</li>
-    <li>Spring Boot (Back-End)</li>
-    <li>MySQL (Banco de Dados)</li>
+    <li>JavaScript </li>
+    <li>Bootstrap </li>
+    <li>Java </li>
+    <li>Spring Boot </li>
+    <li>MySQL </li>
 </ul>
 
 <h2>CONTRIBUIÇÕES PESSOAIS</h2>
