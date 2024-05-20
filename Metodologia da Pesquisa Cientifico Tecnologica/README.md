@@ -42,10 +42,30 @@
     <li><strong>Integração de Funcionalidades no Assistente Virtual:</strong> Coordenei a integração de diversas funcionalidades no assistente virtual, garantindo uma navegação fluida e intuitiva. Este trabalho envolveu a criação de uma interface de usuário unificada e a implementação de lógicas de interação que facilitam o acesso a jogos, contação de histórias, tradução de línguas, entre outros, dentro de um único ambiente. A modularização do código foi essencial para manter a organização e permitir a expansão futura do sistema.</li>
 </ul>
 <br>
-<h3>Lições Aprendidas</h3>
-<p align="justify">Este projeto representou uma valiosa oportunidade para avançar no meu domínio do desenvolvimento de software interativo e da arquitetura de sistemas. O foco principal foi aprimorar a lógica de programação utilizando Python, uma habilidade essencial que foi extensivamente cultivada através do projeto. A estratégia de modularização do código, uma prática que adotei durante o desenvolvimento, provou ser especialmente eficaz, melhorando significativamente a legibilidade e reutilização do código. Esta abordagem não apenas facilitou a manutenção do sistema, mas também permitiu a integração e adaptação flexível de funcionalidades em diferentes contextos, o que é crucial em aplicações destinadas à educação infantil. Além disso, este projeto fortaleceu minhas competências em design de interação, preparando-me para criar interfaces que são intuitivas e envolventes para os jovens usuários.</p>
 
+<h2>LIÇÕES APRENDIDAS</h2>
+<h3>Desenvolvimento de Operações com Comandos de Voz</h3>
+
+<p>Durante o projeto, me aprofundei na programação Python, focando em bibliotecas de processamento de voz como `pyttsx3` para síntese de fala e `speech_recognition` para reconhecimento de voz. Essa experiência foi crucial para entender como interagir com o usuário de maneira eficaz por meio de comandos de voz. A implementação dessas tecnologias exigiu o aprendizado de como configurar o ambiente de desenvolvimento para captura e análise de áudio, processamento de comandos de voz em tempo real, e a resposta do sistema através de feedback auditivo.</p>
+<h3>Implementação de Jogos Interativos</h3>
+
+<p>A criação do jogo 'Pedra, Papel e Tesoura' foi uma parte significativa do meu aprendizado no semestre. Desenvolvi a lógica completa do jogo em Python, que incluiu gerar aleatoriamente as escolhas do computador e determinar o vencedor com base nas entradas do usuário. Isso não apenas reforçou minhas habilidades de programação, mas também me ensinou sobre a importância de criar uma lógica de jogo envolvente e como processar entradas do usuário de forma eficiente.</p>
+<h3>Modularização e Estrutura de Código</h3>
+
+<p>A modularização foi uma estratégia adotada para melhorar a organização e a manutenibilidade do código. Ao dividir o projeto em módulos separados, cada um responsável por uma parte distinta da funcionalidade geral, pude focar em cada aspecto do sistema isoladamente. Isso facilitou a depuração, teste e expansão futura do código. A modularização ajudou na separação clara das responsabilidades dentro do aplicativo, o que é fundamental para manter a qualidade e a escalabilidade do software.</p>
 <br>
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h4>3º Semestre • 2024 </h4>
 <h2>DESCRIÇÃO DO PROJETO</h2>
