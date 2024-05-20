@@ -55,17 +55,56 @@
 <p>A modularização foi uma estratégia adotada para melhorar a organização e a manutenibilidade do código. Ao dividir o projeto em módulos separados, cada um responsável por uma parte distinta da funcionalidade geral, pude focar em cada aspecto do sistema isoladamente. Isso facilitou a depuração, teste e expansão futura do código. A modularização ajudou na separação clara das responsabilidades dentro do aplicativo, o que é fundamental para manter a qualidade e a escalabilidade do software.</p>
 <br>
 
-
-
-
-
-
-
-
-
-
-
-
+<h3>Aplicação PRO4TECH RH</h3>
+<h4>2º Semestre • 2024 </h4>
+<p align="justify">Parceiro Acadêmico: <a href="https://www.pro4tech.com.br/">Pro4Tech</a></p>
+<!-- <p align="center"><img src="https://exemplo.com/imagens/pro4tech_rh.png" width="20%"></p> -->
+<p align="justify">A aplicação PRO4TECH RH foi desenvolvida como um sistema de gerenciamento de vagas de Recursos Humanos, permitindo a interação eficiente entre candidatos e oportunidades de emprego. Utilizando tecnologias avançadas, o sistema cruza dados dos candidatos com as vagas disponíveis, gerando relatórios detalhados para facilitar o processo de contratação.</p>
+<p align="justify">Projetada para ser intuitiva e robusta, a interface facilita o cadastro de novas vagas, edição e gerenciamento por parte dos usuários de RH, bem como a aplicação dos candidatos nas vagas de interesse.</p>
+<br>
+<h3>Arquitetura do Projeto</h3>
+<!-- <p align="center"><img src="https://exemplo.com/imagens/arquitetura_pro4tech.png" width="100%"></p> -->
+<br>
+<h3>Prévia da Solução</h3>
+<p align="justify">O sistema foi construído seguindo o modelo MVC (Model-View-Controller), com Java puro e utilizando a biblioteca Swing para a interface de usuário da aplicação de desktop. O acesso e gerenciamento de dados são realizados através de JDBC conectado a um banco de dados MySQL, garantindo uma operação fluida e segura.</p>
+<details>
+  <summary><b>Funcionalidades do Sistema</b></summary>
+  <br>
+  <ul>
+    <li>Inclusão e gerenciamento de vagas de emprego.</li>
+    <li>Criação de superusuário para controle total do sistema.</li>
+    <li>Candidatura dos usuários às vagas disponíveis.</li>
+    <li>Recepção de relatórios completos para o RH.</li>
+    <li>Monitoramento e atualização do status das vagas por candidatos e RH.</li>
+  </ul>
+</details>
+<br>
+<h3>Tecnologias Utilizadas</h3>
+<p align="justify">As principais tecnologias utilizadas incluem:</p>
+<ul>
+  <li>Java 18.0.2.1 para a lógica de programação.</li>
+  <li>MySQL 8.0.30.0 para gestão de dados.</li>
+  <li>JDBC para conexão com o banco de dados.</li>
+  <li>Swing para a construção da interface de usuário.</li>
+</ul>
+<br>
+<h3>Contribuições Pessoais</h3>
+<p align="justify">Desempenhei um papel essencial no desenvolvimento do projeto PRO4TECH RH, sendo responsável pela criação do banco de dados e pela programação de toda a camada de back-end. Implementei as funções das classes DAO, que são cruciais para a comunicação eficiente entre a interface de usuário e o banco de dados MySQL. Além disso, desenvolvi todas as funcionalidades dos botões na interface, garantindo uma interação fluída e intuitiva para os usuários. As principais atividades que liderei incluem:</p>
+<ul>
+  <li><strong>Criação e estruturação do banco de dados MySQL:</strong> Fui responsável por definir a arquitetura inicial do banco de dados, incluindo a criação de tabelas e o estabelecimento de relações entre elas. Esse processo envolveu a análise cuidadosa dos requisitos do sistema para garantir que o banco de dados fosse capaz de armazenar e processar eficientemente todos os dados necessários, com especial atenção à integridade dos dados e ao desempenho das consultas.</li>
+  <li><strong>Desenvolvimento das funções DAO para manipulação dos dados:</strong> Implementei classes DAO (Data Access Object) para abstrair e encapsular todas as operações de banco de dados relacionadas ao projeto. Isso incluiu a criação de métodos específicos para inserção, atualização, exclusão e recuperação de dados. A aplicação de padrões como DAO permitiu que o sistema mantivesse uma separação clara entre a lógica de negócios e a camada de acesso a dados, facilitando futuras alterações e manutenções no código.</li>
+  <li><strong>Implementação das lógicas de negócio que controlam as funcionalidades dos botões:</strong> Programei a lógica por trás de cada botão na interface do usuário, garantindo que as ações desencadeadas pelos usuários fossem processadas corretamente pelo sistema. Isso envolveu a configuração de eventos de clique, validação de dados de entrada, e a execução de operações de banco de dados pertinentes. Cada funcionalidade foi cuidadosamente testada para assegurar que as operações fossem realizadas de maneira segura e eficiente, proporcionando uma experiência de usuário consistente e confiável.</li>
+</ul>
+<br>
+<h3>Lições Aprendidas</h3>
+<h4>Introdução ao Desenvolvimento de Bancos de Dados</h4>
+<p align="justify">Este projeto foi a minha iniciação ao design e implementação de bancos de dados, usando MySQL. Aprendi sobre a estruturação de tabelas, definição de chaves primárias e estrangeiras, e a importância de criar relações eficientes entre as tabelas para otimizar consultas e manter a integridade dos dados. O conhecimento adquirido foi crucial para entender como organizar grandes volumes de informações e garantir que o sistema possa recuperar, inserir e atualizar dados de forma rápida e segura.</p>
+<h4>Implementação do Padrão DAO</h4>
+<p align="justify">A adoção do padrão Data Access Object (DAO) foi uma etapa fundamental no projeto. Desenvolvi classes DAO que serviram como intermediárias entre a lógica de negócio e o acesso ao banco de dados. Essa prática me ensinou a importância de isolar o código de acesso a dados da lógica de negócio, facilitando alterações no banco de dados sem impactar outras partes do sistema, além de melhorar a segurança e a manutenibilidade do código.</p>
+<h4>Primeira Experiência com Arquitetura MVC</h4>
+<p align="justify">A aplicação da arquitetura Model-View-Controller (MVC) no desenvolvimento de um software desktop em Java foi outro ponto alto do meu aprendizado. Compreendi como separar as responsabilidades dentro da aplicação, organizando o código de maneira que o Model gerencia a lógica de negócios e os dados, o View cuida da apresentação e interação com o usuário, e o Controller faz a mediação da entrada e saída de dados. Essa separação clara ajudou a tornar o software mais organizado, flexível e fácil de testar.</p>
+<h4>Desenvolvimento de Aplicações Desktop com Java</h4>
+<p align="justify">Trabalhar com Java para criar uma aplicação desktop foi uma experiência enriquecedora que ampliou minha compreensão sobre a programação orientada a objetos e o desenvolvimento de interfaces de usuário. Aprender a manipular eventos, construir interfaces responsivas e garantir uma experiência de usuário fluida e funcional mostrou-se essencial para o sucesso do projeto. A capacidade de projetar interfaces que atendem eficazmente às necessidades dos usuários finais em ambientes corporativos melhorou significativamente, resultando em um produto mais intuitivo e acessível.</p>
 
 <h4>3º Semestre • 2024 </h4>
 <h2>DESCRIÇÃO DO PROJETO</h2>
