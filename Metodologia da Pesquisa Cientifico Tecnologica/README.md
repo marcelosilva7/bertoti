@@ -233,14 +233,17 @@
 
 <h3>Contribuições Pessoais</h3>
 <ul>
-    <li>Atuação como Scrum Master, liderando e gerenciando o processo de desenvolvimento.</li>
-    <li>Contribuição no desenvolvimento do front-end e back-end, incluindo a integração entre ambos.</li>
-    <li>Modelagem do banco de dados e criação dos scripts de geração das tabelas.</li>
+    <li><strong>Atuação como Scrum Master:</strong> Liderei e gerenciei o processo de desenvolvimento ágil do projeto, facilitando a comunicação entre os membros da equipe, removendo obstáculos e garantindo que todos os prazos fossem cumpridos. Além disso, organizei e conduzi as reuniões diárias (Daily Scrum), planejamento das sprints, revisões e retrospectivas, mantendo o projeto alinhado com os objetivos propostos.</li>
+    <li><strong>Desenvolvimento do Front-End e Back-End:</strong> Desenvolvi componentes cruciais tanto no front-end quanto no back-end, garantindo uma integração fluida e eficiente entre as interfaces do usuário e o servidor. No front-end, utilizei tecnologias como HTML5, CSS3 e TypeScript para criar interfaces responsivas e interativas. No back-end, implementei lógicas de negócios com Java e Spring, manipulando dados e implementando APIs RESTful para a comunicação entre o front-end e o banco de dados.</li>
+    <li><strong>Modelagem do Banco de Dados e Criação de Scripts de Geração das Tabelas:</strong> Projetei a estrutura do banco de dados usando práticas de modelagem normalizada para garantir a eficiência e a integridade dos dados. Escrevi scripts SQL para a criação de tabelas, relacionamentos e procedimentos armazenados, que foram fundamentais para a operação correta do sistema. Minha contribuição assegurou que o banco de dados fosse robusto, seguro e otimizado para consultas de alta performance.</li>
 </ul>
 
 <h3>Lições Aprendidas</h3>
-<p align="justify">Aprofundamento em integração de diferentes repositórios e modelagem de banco de dados normalizado para otimizar a eficiência e escalabilidade do sistema.</p>
-
+<ul>
+    <li><strong>Modelagem de Banco de Dados Normalizado:</strong> Durante o projeto, aprimorei significativamente meus conhecimentos em modelagem de banco de dados. Aprendi a importância e as técnicas de normalização para otimizar a eficiência e escalabilidade do sistema. Isso envolveu entender como evitar redundâncias e como garantir a integridade dos dados através do estabelecimento de chaves estrangeiras, relações e índices adequados. Esse processo foi crucial para manter o desempenho do sistema em alto nível, especialmente em operações que exigem acesso intensivo ao banco de dados.</li>
+    <li><strong>Integração com Múltiplos Repositórios:</strong> Adquiri experiência prática em trabalhar com múltiplos repositórios de dados durante o desenvolvimento do projeto. Isso incluiu configurar e gerenciar interações entre diferentes fontes de dados, o que permitiu um fluxo mais fluido e eficaz de informações através das camadas do sistema. A habilidade de integrar diferentes repositórios provou ser essencial para a construção de uma aplicação robusta e modular, capaz de se adaptar facilmente a novas exigências e integrações futuras.</li>
+    <li><strong>Trabalho com Diversos Sistemas de Versionamento e Repositórios:</strong> Aprendi a manejar eficientemente sistemas de controle de versão, como Git, em um ambiente com múltiplos repositórios de código. Isso envolveu sincronizar o trabalho em equipe, resolver conflitos de merge e manter a consistência dos códigos em diferentes branches. Essa habilidade foi vital para a colaboração eficaz entre os desenvolvedores e para a manutenção da integridade do código ao longo do ciclo de desenvolvimento do projeto.</li>
+</ul>
 
 
 obs: detalhamento de codigo, mostrar imagens nos itens, api rest, trechos de codigos, e fazer os details para ficar melhor.
