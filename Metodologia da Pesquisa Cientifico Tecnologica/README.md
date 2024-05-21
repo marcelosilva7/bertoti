@@ -203,6 +203,46 @@
 <p>Esses aspectos dos models são fundamentais no desenvolvimento de aplicações baseadas em dados e foram essenciais para aprofundar meu conhecimento em design de software e arquitetura de sistemas. A combinação dessas habilidades com as experiências anteriores em CRUD, controladores, repositórios, serviços e DTOs proporcionou uma compreensão abrangente do desenvolvimento de aplicações web do ponto de vista do Back-End.</p>
 
 
+<h3>Sistema de Gestão de Anomalias em Laudos de Inspeção Predial</h3>
+<h4>Parceiro: B1nary Devs • Período: [Inserir data ou período do projeto]</h4>
+<p align="justify"><strong>Descrição do Problema:</strong> O desafio consiste em desenvolver um sistema abrangente para controlar anomalias identificadas em um Laudo de Inspeção Predial. As funcionalidades-chave incluem a diferenciação de segmentos específicos de um edifício, cadastro de prestadores de serviço, geração eficiente de ordens de serviço e criação de relatórios detalhados. Esse sistema é crucial para melhorar a gestão e eficácia na correção de anomalias, promovendo a preservação do patrimônio e tomada de decisões informadas.</p>
+<p align="justify"><strong>Solução Proposta:</strong> A equipe da B1nary Devs desenvolverá um sistema web abrangente que simplificará a gestão de prestadores de serviço, segmentos e ordens de serviço. Como parte deste projeto, estamos desenvolvendo uma landing page intuitiva que facilitará a solicitação de novas ordens de serviço para os nossos novos clientes por meio de um simples formulário. Para os nossos clientes existentes, disponibilizaremos uma landing page personalizada, onde poderão acessar facilmente suas ordens de serviço anteriores, baixar laudos novamente e fornecer feedbacks valiosos, incluindo sugestões e reclamações.</p>
+
+<h3>Funcionalidades</h3>
+<ul>
+    <li>Cadastro de segmento - Permite cadastrar e associar segmentos específicos de edifícios.</li>
+    <li>Cadastro de prestador de serviço - Facilita o cadastro de prestadores para utilização em ordens de serviço.</li>
+    <li>Geração de ordem de serviço - Permite gerar e gerenciar ordens de serviço eficientemente.</li>
+    <li>Consulta de segmento e prestador de serviço - Proporciona facilidade para consultar segmentos e prestadores cadastrados.</li>
+    <li>Diferenciação de níveis de acesso - Gerencia o acesso às funcionalidades do sistema conforme o nível hierárquico.</li>
+    <li>Aprovação e reprovação de ordens de serviço - Oferece capacidade para visualizar e gerenciar a aprovação de ordens.</li>
+    <li>Interface intuitiva para solicitação e gestão de serviços.</li>
+</ul>
+
+<h3>Tecnologias Utilizadas</h3>
+<ul>
+    <li>Figma - para UX/UI design.</li>
+    <li>Java - para back-end.</li>
+    <li>Spring - Spring Framework para criação de APIs.</li>
+    <li>Axios - para chamadas HTTP.</li>
+    <li>Oracle Cloud - Hospedagem do banco de dados.</li>
+    <li>TypeScript - para desenvolvimento front-end.</li>
+    <li>HTML5 - para estruturação da página.</li>
+    <li>CSS3 - para estilização.</li>
+</ul>
+
+<h3>Contribuições Pessoais</h3>
+<ul>
+    <li>Atuação como Scrum Master, liderando e gerenciando o processo de desenvolvimento.</li>
+    <li>Contribuição no desenvolvimento do front-end e back-end, incluindo a integração entre ambos.</li>
+    <li>Modelagem do banco de dados e criação dos scripts de geração das tabelas.</li>
+</ul>
+
+<h3>Lições Aprendidas</h3>
+<p align="justify">Aprofundamento em integração de diferentes repositórios e modelagem de banco de dados normalizado para otimizar a eficiência e escalabilidade do sistema.</p>
+
+
+
 obs: detalhamento de codigo, mostrar imagens nos itens, api rest, trechos de codigos, e fazer os details para ficar melhor.
 
 
