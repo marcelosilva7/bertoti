@@ -227,8 +227,8 @@
 <h3>Tecnologias Utilizadas</h3>
 <ul>
     <li>Figma - para UX/UI design.</li>
-    <li>Java - para back-end.</li>
-    <li>Spring - Spring Framework para criação de APIs.</li>
+    <li>Spring - Framework para criação do back-end.</li>
+    <li>Vue js - Framework para criação da interface web do front-end</li>
     <li>Axios - para chamadas HTTP.</li>
     <li>Oracle Cloud - Hospedagem do banco de dados.</li>
     <li>TypeScript - para desenvolvimento front-end.</li>
@@ -246,9 +246,10 @@
 <h3>Lições Aprendidas</h3>
 <ul>
     <li><strong>Modelagem de Banco de Dados Normalizado:</strong> Durante o projeto, aprimorei significativamente meus conhecimentos em modelagem de banco de dados. Aprendi a importância e as técnicas de normalização para otimizar a eficiência e escalabilidade do sistema. Isso envolveu entender como evitar redundâncias e como garantir a integridade dos dados através do estabelecimento de chaves estrangeiras, relações e índices adequados. Esse processo foi crucial para manter o desempenho do sistema em alto nível, especialmente em operações que exigem acesso intensivo ao banco de dados.</li>
-    <li><strong>Integração com Múltiplos Repositórios:</strong> Adquiri experiência prática em trabalhar com múltiplos repositórios de dados durante o desenvolvimento do projeto. Isso incluiu configurar e gerenciar interações entre diferentes fontes de dados, o que permitiu um fluxo mais fluido e eficaz de informações através das camadas do sistema. A habilidade de integrar diferentes repositórios provou ser essencial para a construção de uma aplicação robusta e modular, capaz de se adaptar facilmente a novas exigências e integrações futuras.</li>
-    <li><strong>Trabalho com Diversos Sistemas de Versionamento e Repositórios:</strong> Aprendi a manejar eficientemente sistemas de controle de versão, como Git, em um ambiente com múltiplos repositórios de código. Isso envolveu sincronizar o trabalho em equipe, resolver conflitos de merge e manter a consistência dos códigos em diferentes branches. Essa habilidade foi vital para a colaboração eficaz entre os desenvolvedores e para a manutenção da integridade do código ao longo do ciclo de desenvolvimento do projeto.</li>
+    <li><strong>Integração com Múltiplos Repositórios e Front-end:</strong> Adquiri experiência prática em trabalhar com múltiplos repositórios de dados e na integração destes com o front-end do sistema. Configurei e gerenciei interações entre diferentes fontes de dados e o front-end, permitindo um fluxo mais fluido e eficaz de informações através das camadas do sistema. Essa habilidade foi essencial para criar uma aplicação robusta e modular, que se adapta facilmente a novas exigências e integrações futuras.</li>
+    <li><strong>Desenvolvimento de Módulos em Vue.js:</strong> Durante o projeto, desenvolvi a habilidade de criar e gerenciar módulos no framework Vue.js, o que me permitiu construir interfaces de usuário dinâmicas. Aprendi a estruturar o código de forma modular, o que facilita a manutenção e a escalabilidade da aplicação, além de permitir a reutilização de componentes em diferentes partes do projeto sem redundâncias.</li>
 </ul>
+
 
 
 
