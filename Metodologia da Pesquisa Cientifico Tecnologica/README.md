@@ -204,9 +204,14 @@
 
 
 <h3>Sistema de Gestão de Anomalias em Laudos de Inspeção Predial</h3>
-<h4>Parceiro: B1nary Devs • Período: [Inserir data ou período do projeto]</h4>
-<p align="justify"><strong>Descrição do Problema:</strong> O desafio consiste em desenvolver um sistema abrangente para controlar anomalias identificadas em um Laudo de Inspeção Predial. As funcionalidades-chave incluem a diferenciação de segmentos específicos de um edifício, cadastro de prestadores de serviço, geração eficiente de ordens de serviço e criação de relatórios detalhados. Esse sistema é crucial para melhorar a gestão e eficácia na correção de anomalias, promovendo a preservação do patrimônio e tomada de decisões informadas.</p>
-<p align="justify"><strong>Solução Proposta:</strong> A equipe da B1nary Devs desenvolverá um sistema web abrangente que simplificará a gestão de prestadores de serviço, segmentos e ordens de serviço. Como parte deste projeto, estamos desenvolvendo uma landing page intuitiva que facilitará a solicitação de novas ordens de serviço para os nossos novos clientes por meio de um simples formulário. Para os nossos clientes existentes, disponibilizaremos uma landing page personalizada, onde poderão acessar facilmente suas ordens de serviço anteriores, baixar laudos novamente e fornecer feedbacks valiosos, incluindo sugestões e reclamações.</p>
+<h4>4º Semestre • 2024 </h4> 
+<p align="justify"><strong>Descrição do Projeto:</strong> O desafio enfrentado pela equipe da B1nary Devs consiste em desenvolver um sistema abrangente para controlar e gerenciar anomalias identificadas em Laudos de Inspeção Predial. As principais funcionalidades do sistema incluem a diferenciação de segmentos específicos de um edifício, o cadastro eficiente de prestadores de serviço, a geração e gerenciamento de ordens de serviço, além da criação de relatórios detalhados que ajudam na tomada de decisões informadas e promovem a preservação do patrimônio. Como solução, estamos desenvolvendo um sistema web que não só simplifica a gestão desses elementos, mas também incorpora uma landing page intuitiva para facilitar a solicitação de novas ordens de serviço por novos clientes através de um simples formulário. Para clientes existentes, uma landing page personalizada permitirá o fácil acesso a ordens de serviço anteriores, a capacidade de baixar laudos e fornecer feedback valioso, incluindo sugestões e reclamações. Este sistema é crucial para aprimorar a eficácia na correção de anomalias e para a gestão eficiente de infraestruturas prediais.</p>
+
+<h3>Prévia do Projeto</h3>
+<p align="justify">O projeto desenvolvido pela equipe da B1nary Devs aborda um desafio crucial no setor de inspeção predial: a gestão eficiente de anomalias identificadas nos laudos. Esta aplicação web avançada é projetada para melhorar significativamente a maneira como as anomalias são controladas e gerenciadas, aumentando a preservação do patrimônio e permitindo decisões mais informadas e precisas.</p>
+<p align="justify">O sistema integra várias funcionalidades essenciais, descritas a seguir, como a diferenciação de segmentos de edifícios, o cadastro e gerenciamento de prestadores de serviço, e a geração automatizada de ordens de serviço. Além disso, é equipado com ferramentas de relatórios detalhados que apoiam na análise e resolução de problemas identificados.</p>
+<p align="justify">Como parte do desenvolvimento, a equipe criou duas landing pages distintas. A primeira é destinada a novos clientes, facilitando a solicitação de serviços através de um formulário simplificado. A segunda landing page é personalizada para clientes existentes, onde eles podem acessar, revisar e responder às ordens de serviço anteriores, bem como baixar laudos e fornecer feedback valioso, que é essencial para a melhoria contínua do sistema.</p>
+<p align="justify">Essas interfaces são projetadas para serem intuitivas e fáceis de usar, garantindo que tanto novos quanto antigos clientes possam navegar pelo sistema sem dificuldades. Este projeto não apenas melhora a eficiência operacional, mas também eleva o padrão de serviço ao cliente, reforçando a confiança e a satisfação do cliente com o processo de gestão de inspeções prediais.</p>
 
 <h3>Funcionalidades</h3>
 <ul>
@@ -245,7 +250,5 @@
     <li><strong>Trabalho com Diversos Sistemas de Versionamento e Repositórios:</strong> Aprendi a manejar eficientemente sistemas de controle de versão, como Git, em um ambiente com múltiplos repositórios de código. Isso envolveu sincronizar o trabalho em equipe, resolver conflitos de merge e manter a consistência dos códigos em diferentes branches. Essa habilidade foi vital para a colaboração eficaz entre os desenvolvedores e para a manutenção da integridade do código ao longo do ciclo de desenvolvimento do projeto.</li>
 </ul>
 
-
-obs: detalhamento de codigo, mostrar imagens nos itens, api rest, trechos de codigos, e fazer os details para ficar melhor.
 
 
